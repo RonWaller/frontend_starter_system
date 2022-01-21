@@ -21,7 +21,7 @@
     -   Prettier extension used to format your code. This configuation file is specific to current project. Can add formatting settings as need to your project.
 -   package.json
 
-### Steps to get project started
+# Steps to get project started
 
 1. Download zip file or clone repository
 1. Rename zip folder or clone folder to project name.
@@ -32,14 +32,14 @@
         - will install all dependencies listed in the package.json file
 1. edit package.json file to rename project name to current project.
 
-### Edit files in src folder
+## Edit files in src folder
 
 -   index.html for all main html content
     -   add additional html files here as well
 -   use scss files to create all css for project
 -   place all image assest in the img folder
 
-### Start Development live server
+## Start Development live server
 
 -   `npm run dev`
     -   This will open project in your default browser. It will auto reload after saving any changes.
